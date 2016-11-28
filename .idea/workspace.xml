@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b2c81c8-eb83-46f0-8d7e-2132cf16f5f2" name="Default" comment="Commiting stuff">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AstroPhysicalCalculations.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/References" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Intro-to-Astropy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Intro-to-Astropy.ipynb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8b2c81c8-eb83-46f0-8d7e-2132cf16f5f2" name="Default" comment="" />
     <ignored path="Example.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/vcs.xml" />
