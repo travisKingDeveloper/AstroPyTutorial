@@ -16,7 +16,6 @@ image_data = fits.getdata(image_file)
 
 plt.imshow(image_data, cmap='gray')
 plt.colorbar()
-input("Press Enter to continue...")
 print('Min:', np.min(image_data))
 print('Max:', np.max(image_data))
 print('Mean:', np.mean(image_data))
