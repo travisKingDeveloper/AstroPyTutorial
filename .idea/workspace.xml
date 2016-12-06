@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b2c81c8-eb83-46f0-8d7e-2132cf16f5f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ViewingExampleFIT.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ViewingOutputFIT.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ViewingAndManipulatingFITImages.py" afterPath="$PROJECT_DIR$/ViewingAndManipulatingAndStoringFITImages.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stacked_M13_blue.fits" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ViewingAndManipulatingAndStoringFITImages.py" afterPath="$PROJECT_DIR$/ViewingAndManipulatingAndStoringFITImages.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ViewingExampleFIT.py" afterPath="$PROJECT_DIR$/ViewingExampleFIT.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ViewingOutputFIT.py" afterPath="$PROJECT_DIR$/ViewingOutputFIT.py" />
     </list>
     <ignored path="Example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -18,9 +19,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/AstroPyTutorial$Viewing_And_Manipulating_FIT_Images.coverage" NAME="Viewing And Manipulating FIT Images Coverage Results" MODIFIED="1481054327642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AstroPyTutorial$ExampleFITS.coverage" NAME="ExampleFITS Coverage Results" MODIFIED="1481053843704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AstroPyTutorial$Output.coverage" NAME="Output Coverage Results" MODIFIED="1481054209367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AstroPyTutorial$Viewing_And_Manipulating_FIT_Images.coverage" NAME="Viewing And Manipulating FIT Images Coverage Results" MODIFIED="1481058454397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AstroPyTutorial$ExampleFITS.coverage" NAME="ExampleFITS Coverage Results" MODIFIED="1481055679044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AstroPyTutorial$Output.coverage" NAME="Output Coverage Results" MODIFIED="1481058461121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -51,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ViewingAndManipulatingAndStoringFITImages.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ViewingAndManipulatingAndStoringFITImages.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ViewingAndManipulatingAndStoringFITImages.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            <state relative-caret-position="263">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -66,8 +67,8 @@
       <file leaf-file-name="ViewingOutputFIT.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ViewingOutputFIT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -75,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ViewingExampleFIT.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ViewingExampleFIT.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ViewingExampleFIT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="459">
+              <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -148,8 +149,8 @@
         <option value="$PROJECT_DIR$/matplotlibrc.py" />
         <option value="$PROJECT_DIR$/References" />
         <option value="$PROJECT_DIR$/ViewingAndManipulatingFITImages.py" />
-        <option value="$PROJECT_DIR$/ViewingExampleFIT.py" />
         <option value="$PROJECT_DIR$/ViewingOutputFIT.py" />
+        <option value="$PROJECT_DIR$/ViewingExampleFIT.py" />
         <option value="$PROJECT_DIR$/ViewingAndManipulatingAndStoringFITImages.py" />
       </list>
     </option>
@@ -209,7 +210,7 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Travis/PycharmProjects/AstroPyTutorial/References" />
   </component>
-  <component name="RunManager" selected="Python.Viewing And Manipulating FIT Images">
+  <component name="RunManager" selected="Python.Output">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -557,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1481053690870</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finalizing&#10;stuff">
+      <created>1481054339338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1481054339338</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -624,14 +632,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ViewingOutputFIT.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -790,10 +791,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ViewingExampleFIT.py">
+    <entry file="file://$PROJECT_DIR$/ViewingAndManipulatingAndStoringFITImages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="263">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -802,18 +803,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ViewingOutputFIT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ViewingAndManipulatingAndStoringFITImages.py">
+    <entry file="file://$PROJECT_DIR$/ViewingExampleFIT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        <state relative-caret-position="459">
+          <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

@@ -8,8 +8,9 @@ hdu_list.info()
 
 image_data = hdu_list[0].data
 
-plt.imshow(image_data, cmap='gray')
+plt.imshow(image_data, cmap='Blues')
 plt.colorbar()
+plt.show()
 input("Press Enter to continue...")
 
 hdu_list.close()

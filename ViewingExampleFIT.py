@@ -16,4 +16,15 @@ image_data = fits.getdata(image_file)
 
 plt.imshow(image_data, cmap='gray')
 plt.colorbar()
+plt.show()
+input("Press Enter to continue...")
+print('Min:', np.min(image_data))
+print('Max:', np.max(image_data))
+print('Mean:', np.mean(image_data))
+print('Stdev:', np.std(image_data))
+
+print(type(image_data.flat))
+from matplotlib.colors import LogNorm
+plt.imshow(image_data, cmap='Accent', norm=LogNorm())
+plt.show()
 input("Press Enter to continue...")
